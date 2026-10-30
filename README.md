@@ -7,3 +7,18 @@ los enemigos ahora atacan
 21/10 Commits realizados: se eliminaron varios archivos del repositorio, esto para evitar tener redundancias innecesarias y un mayor orden sobre los archivos, dejando unicamente los 2 Zip (el 1.0 siendo la version anterior, dejandola como registro)
 
 27/10 Commit Realizado: Se actualiza "DARK_REBELLION_BETA-2-0.zip", dentro de ella, precisamente en el archivo general y en la clase jugador se ajustaron los atributos para una mejor optimizacion
+
+
+
+
+
+
+
+
+
+30/10 se han detectado posibles optimizaciones sobre el codigo: 
+
+-Pvector pos y vel (en todas las clases)
+-Arreglar los this.
+-Adaptar cualquier Metodo a los cambios hechos con Pvector
+
