@@ -22,3 +22,7 @@ los enemigos ahora atacan
 -Arreglar los this.
 -Adaptar cualquier Metodo a los cambios hechos con Pvector
 
+2/11 se agrego una tienda la cual es accesible desde la pantalla de inicio, la cual aun no tiene nada
+- se cambio el sistema de vidas, pasamos de un texto monotono (vidas: 3) a un sistema que registra corazones en la pantalla y por cada golpe desaparece un corazon
+- el personaje principal ya no puede disparar proyectiles
+- -se optimizo el codigo, ahora no hay microcortes 
