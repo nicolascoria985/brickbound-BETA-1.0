@@ -8,14 +8,6 @@ los enemigos ahora atacan
 
 27/10 Commit Realizado: Se actualiza "DARK_REBELLION_BETA-2-0.zip", dentro de ella, precisamente en el archivo general y en la clase jugador se ajustaron los atributos para una mejor optimizacion
 
-
-
-
-
-
-
-
-
 30/10 se han detectado posibles optimizaciones sobre el codigo: 
 
 -Pvector pos y vel (en todas las clases)
@@ -25,4 +17,7 @@ los enemigos ahora atacan
 2/11 se agrego una tienda la cual es accesible desde la pantalla de inicio, la cual aun no tiene nada
 - se cambio el sistema de vidas, pasamos de un texto monotono (vidas: 3) a un sistema que registra corazones en la pantalla y por cada golpe desaparece un corazon
 - el personaje principal ya no puede disparar proyectiles
-- -se optimizo el codigo, ahora no hay microcortes 
+- -se optimizo el codigo, ahora no hay microcortes
+
+5/11 Commit Realizado: Se optimizo la clase Enemigo, se aprovecha mucho mejor el concepto de herencia ahora. y se ha decidido modificar ciertas cosas dentro del programa general:
+Consiste en borrar toda realizacion de diseño o imagen de forma nativa en Processing, y se propone a su vez reemplazarlo por carga de Imagenes del mismo, Ya sea menu, vida, Mapa, Etc.
