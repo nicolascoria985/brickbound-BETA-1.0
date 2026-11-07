@@ -21,3 +21,11 @@ los enemigos ahora atacan
 
 5/11 Commit Realizado: Se optimizo la clase Enemigo, se aprovecha mucho mejor el concepto de herencia ahora. y se ha decidido modificar ciertas cosas dentro del programa general:
 Consiste en borrar toda realizacion de diseño o imagen de forma nativa en Processing, y se propone a su vez reemplazarlo por carga de Imagenes del mismo, Ya sea menu, vida, Mapa, Etc.
+
+6/11: DARK REBELLION BETA 3.0, ahora el peronaje principal puede atacar a los enemigos (con un nuevo metodo atacar)
+-se agrego un doble salto
+-ahora el personaje NO puede matar a los enemigos saltando sobre ellos, si lo hace pierde una vida
+-se mejoro drasticamente la pantalla de inicio, agregando por fin un boton de ayuda al usuario 
+
+7/11: DARK REBELLION BETA 3.5, se implemento una pantalla de pausa donde se puede reanudar la partida, reiniciar la misma o volver al menu principal
+-ahora el personaje puede hacer un dash, que lo hace inmune a los enemigos mientras este activado 
