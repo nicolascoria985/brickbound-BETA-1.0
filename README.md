@@ -29,3 +29,5 @@ Consiste en borrar toda realizacion de diseño o imagen de forma nativa en Proce
 
 7/11: DARK REBELLION BETA 3.5, se implemento una pantalla de pausa donde se puede reanudar la partida, reiniciar la misma o volver al menu principal
 -ahora el personaje puede hacer un dash, que lo hace inmune a los enemigos mientras este activado 
+
+-Inicios del mapa: se importo el mapa a processing correctamente (aun sin que el jugador colisione con el mismo)
