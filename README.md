@@ -31,3 +31,8 @@ Consiste en borrar toda realizacion de diseño o imagen de forma nativa en Proce
 -ahora el personaje puede hacer un dash, que lo hace inmune a los enemigos mientras este activado 
 
 -Inicios del mapa: se importo el mapa a processing correctamente (aun sin que el jugador colisione con el mismo)
+
+8/11: DARK REBELLION BETA 4.0, se mejoro drasticamente a los enemigos del juego, ahora persiguen al jugador al entrar en su campo de vision O dependiendo del enemigo se alejan para disparar proyectiles desde una distancia segura 
+OTROS CAMBIOS MINIMOS
+-musica de fondo (se esta intentando que suene solo en el menu principal
+-mejora de animaciones del personaje principal 
