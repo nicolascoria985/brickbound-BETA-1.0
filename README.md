@@ -36,3 +36,11 @@ Consiste en borrar toda realizacion de diseño o imagen de forma nativa en Proce
 OTROS CAMBIOS MINIMOS
 -musica de fondo (se esta intentando que suene solo en el menu principal
 -mejora de animaciones del personaje principal 
+
+9/11: DARK REBELLION BETA 4.5, se solucionaron algunos errores:
+-uno que hacia que la musica de menu de inicio tambien suene en plena partida
+-algunos comportamientos extraños en los enemigos 
+se agrego un soundtrack especial para el nivel 1, se tiene pensado añadirle un soundtrack a cada nivel
+se mejoraron los sprites de los enemigos, ahora no estan tan duros y cambian su sprite al atacar
+se ajusto el golpe del personje principal para que tenga menos alcanze, esto evita abusos de alcanze 
+-aguja sombria ahora lanza proyectiles, se alejara cuando el jugador se acerque a el manteniendo una "distancia segura", en este punto explico que corregi, especificamente que antes aguja sombria no hacia nada, ahora tiene este comportamiento de franco tirador aparte de la inclusion de los proyectiles 
