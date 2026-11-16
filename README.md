@@ -44,3 +44,9 @@ se agrego un soundtrack especial para el nivel 1, se tiene pensado añadirle un 
 se mejoraron los sprites de los enemigos, ahora no estan tan duros y cambian su sprite al atacar
 se ajusto el golpe del personje principal para que tenga menos alcanze, esto evita abusos de alcanze 
 -aguja sombria ahora lanza proyectiles, se alejara cuando el jugador se acerque a el manteniendo una "distancia segura", en este punto explico que corregi, especificamente que antes aguja sombria no hacia nada, ahora tiene este comportamiento de franco tirador aparte de la inclusion de los proyectiles 
+14/11: DARK REBELLION BETA 4.5 BOSS TEST, se agrego a un jefe el "alterno" que tiene las siguientes habilidades:
+-genera un clon debil de si mismo para confundir al rival
+-golpea al jugador
+-si esta a menos de 50% de vida activa su modo frenetico
+-en ese modo embiste al jugador rapidamente
+-ataca mas rapido en el modo frenetico
