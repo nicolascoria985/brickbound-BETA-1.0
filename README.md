@@ -1,3 +1,9 @@
+5/10: se añadio el primer "enemgo al juego"
+-consta de un png que va y viene en una plataforma, si el jugador lo toca, pierde
+9/10: se añadio un sistema basico de vida
+-es un texto (vidas:3) que registra la salud que le queda al jugador, si pierde todas las vidas, aparece una pantalla de game over y se debe reiniciar la partida con "r"
+12/10: se añadieron sprites para los personajes (enemigos, jugador y para las monedas)
+-ahora si el jugador cambia de lado al caminar los sprites cambian de lado tambien
 15/10: se añadio una pantalla de inicio al juego, se cambio el nombre a "dark rebellion", se añadieron monedas (que por ahora no hacen nada)
 nuevos enemigos como los aguja sombria y los fantasmas de fuego tambien se cargaron imagenes png para el personaje principal y los enemigos 
 los enemigos ahora atacan 
@@ -50,3 +56,10 @@ se ajusto el golpe del personje principal para que tenga menos alcanze, esto evi
 -si esta a menos de 50% de vida activa su modo frenetico
 -en ese modo embiste al jugador rapidamente
 -ataca mas rapido en el modo frenetico
+16/11: DARK REBELLION BETA 5.0, oficialmente el mini-boss "el alterno" ya fue incluido al juego con las mecanicas mencionadas el 14/11
+-se introdujo el golpe (punch) que quita 1 vida a boss o a un enemigo comun
+-el jugador principal (centinela) ahora puede lanzar un proyectil (algo asi como de magia oscura) que tambien quita 1 vida a boss o a enemigo comunn
+-se arreglo el problema que hacia que el juego pese casi 200mb (ahora solo pea 30mb)
+-se completo el primer mapa en tiled del juego, tambien con sus colisiones y aparecion correcta de enemigos
+-se agrego una base de datos que almacena partidas del jugadror, estas mismas se pueden cargar con opciones dentro del juego
+-el jugador ahora tiene 4 vidas (balance)
